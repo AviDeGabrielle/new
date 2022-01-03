@@ -1,9 +1,11 @@
-# New `raco new`
+# `raco new`
 
 This package `new` allows users to quickly set up a working template for a variety of Racket projects.
 It works by adding a new `raco` command `raco new` that downloads a repo from 
 [github.com/racket-templates](https://github.com/racket-templates) and removing the git history 
 from the project so you get a fresh start.
+
+Install it to use Racket Templates or use it as a template for your own `raco` command line tool.
 
 # Install
 
