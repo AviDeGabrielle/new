@@ -33,10 +33,11 @@ This package is free software, see [LICENSE](LICENSE) for more details.
 
 By making a contribution, you are agreeing that your contribution is licensed under the Apache 2.0 license and the MIT license.
 
-## get started
+## get started contributing
 
+Clone this repo, and install locally; 
 ```
-git clone git@github:nixin72/from-template.git
+git clone https://github.com/racket-templates/new.git
 cd from-template 
-raco pkg install new
+raco pkg install
 ```
