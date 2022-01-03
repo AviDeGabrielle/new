@@ -1,4 +1,4 @@
-# from-template 
+# New `raco new`
 
 This package `new` allows users to quickly set up a working template for a variety of Racket projects.
 It works by adding a new `raco` command `raco new` that downloads a repo from 
