@@ -1,7 +1,7 @@
 #lang info
 
 (define collection "new")
-(define version "1.1")
+(define version "1.2")
 (define pkg-authors '(nixin72))
 (define pkg-desc "Download template apps to get started building new projects with Racket")
 (define scribblings '(("scribblings/new.scrbl" ())))
