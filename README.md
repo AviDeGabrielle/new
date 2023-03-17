@@ -1,5 +1,7 @@
 # `raco new`
 
+[![Racket Discourse](https://img.shields.io/discourse/users?label=Discuss%20on%20Racket%20Discourse&logo=racket&server=https%3A%2F%2Fracket.discourse.group)](https://racket.discourse.group/) [![Racket Discord](https://img.shields.io/discord/571040468092321801?label=Chat%20on%20Racket%20Discord&logo=racket)](https://discord.gg/6Zq8sH5)
+
 This package `new` allows users to quickly set up a working template for a variety of Racket projects.
 It works by adding a new `raco` command `raco new` that downloads a repo from 
 [github.com/racket-templates](https://github.com/racket-templates) and removing the git history 
@@ -17,9 +19,12 @@ raco pkg install new
 ```
 
 # Usage 
-```bash
-raco new <template-name> <destination-dir>
-```
+
+`raco new` will list the available templates.
+
+`raco new <template-name>` will set up the template in the current directory
+
+`raco new <template-name> <destination-dir>` will set up the template in the specified directory
 
 # Contributing to this project
 
