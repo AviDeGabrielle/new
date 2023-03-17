@@ -13,7 +13,7 @@ Install it to use Racket Templates or use it as a template for your own `raco` c
 
 1. [Set your PATH environment variable](https://github.com/racket/racket/wiki/Set-your-PATH-environment-variable) 
 so you can use `raco` and other Racket command line functions.
-2. either look for `from-template` in the DrRacket menu **File|Package Manager**, or run the `raco` command:
+2. either look for `new` in the DrRacket menu **File|Package Manager**, or run the `raco` command:
 ```bash
 raco pkg install new
 ```
