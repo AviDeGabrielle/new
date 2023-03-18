@@ -16,8 +16,8 @@
 
 (define raco-commands
   '(("new"
-     (submod from-template main)
+     (submod new main)
      "Install a repo from a template at racket-templates" 50)
     ("from-template"
-     (submod from-template main)
+     (submod new main)
      "Install a repo from a template at racket-templates" 50)))
