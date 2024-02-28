@@ -45,6 +45,6 @@ By making a contribution, you are agreeing that your contribution is licensed un
 Clone this repo, and install locally; 
 ```
 git clone https://github.com/racket-templates/new.git
-cd from-template 
+cd new 
 raco pkg install
 ```
