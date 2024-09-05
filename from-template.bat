@@ -18,7 +18,7 @@ goto :exit
 
 :dir_exists
 
-echo "Directory already exists. Choose a different name."
+echo "Directory %DEST% already exists. Choose a different name."
 
 exit /b 1
 
